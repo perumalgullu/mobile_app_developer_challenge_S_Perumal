@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # peblo_story_buddy
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# mobile_app_developer_challenge_S_Perumal
+Peblo AI Story Buddy &amp; Quiz Component built using Flutter.
+>>>>>>> 769f1644333b21bae572e1f26d0af5b61d0984a9
